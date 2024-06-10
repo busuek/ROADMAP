@@ -12,4 +12,4 @@
 [Python - youtube](https://www.youtube.com/playlist?list=PLx8HYVzPNOImIT7msbXNkk5KVHje8cKB2)
 
 ## VERSION CONTROL
-[Git - book]()
+[Git - book](https://github.com/busuek/books/blob/main/progit.pdf)
