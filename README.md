@@ -1,5 +1,10 @@
 # ROADMAP DEV-SEC-OPS
 
+## SOME GOOD YOUTUBE CHANNELS
++------------------------------------------------------------+
+| [NetworkChuck](https://www.youtube.com/@NetworkChuck)      |
+|                                                            |
++------------------------------------------------------------+
 ## SCRIPTING
 [Bash - ]()
 
