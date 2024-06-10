@@ -1,5 +1,7 @@
 # ROADMAP DEV-SEC-OPS
 
+![image](https://github.com/busuek/ROADMAP/assets/101875725/37662772-e8de-4683-a707-76c72cd0dd8e)
+
 ## SOME GOOD YOUTUBE CHANNELS
 +------------------------------------------------------------+
 
