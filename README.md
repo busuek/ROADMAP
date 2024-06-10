@@ -2,8 +2,9 @@
 
 ## SOME GOOD YOUTUBE CHANNELS
 +------------------------------------------------------------+
-| [NetworkChuck](https://www.youtube.com/@NetworkChuck)      |
-|                                                            |
+
+[NetworkChuck](https://www.youtube.com/@NetworkChuck)
+
 +------------------------------------------------------------+
 ## SCRIPTING
 [Bash - ]()
