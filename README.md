@@ -15,3 +15,7 @@
 
 ## VERSION CONTROL
 [Git - book](https://github.com/busuek/books/blob/main/progit.pdf)
+
+## FILES
+
+[ODBC DRIVER 17 for Windows]()
