@@ -1,6 +1,6 @@
 # Complete manual about administration/architecture/devops
 
-![image](https://github.com/busuek/ROADMAP/assets/101875725/37662772-e8de-4683-a707-76c72cd0dd8e)
+![image](![image](https://github.com/busuek/administration/assets/101875725/2397c784-b5e6-4222-8b4e-bf62728bf97e))
 
 ## SOME GOOD YOUTUBE CHANNELS
 +------------------------------------------------------------+
