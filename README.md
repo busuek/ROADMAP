@@ -16,6 +16,10 @@
 ## VERSION CONTROL
 [Git - book](https://github.com/busuek/books/blob/main/progit.pdf)
 
+## MANUALS
+
+[manuals](https://github.com/busuek/documentation_systemadmin/tree/main)
+
 ## FILES
 
 [ODBC DRIVER 17 for Windows](https://github.com/busuek/files/blob/main/msodbcsql.msi)
