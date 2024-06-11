@@ -19,3 +19,7 @@
 ## FILES
 
 [ODBC DRIVER 17 for Windows](https://github.com/busuek/files/blob/main/msodbcsql.msi)
+
+## USEFUL SERVICES
+
+[whois](https://www.whois.com/whois/)
