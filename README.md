@@ -22,6 +22,9 @@
 ## MANUALS
 [manuals](https://github.com/busuek/documentation_systemadmin/tree/main)
 
+## ARTICLES
+[node-exporter setup](https://developer.couchbase.com/tutorial-node-exporter-setup)
+
 ## FILES
 [ODBC DRIVER 17 for Windows](https://github.com/busuek/files/blob/main/msodbcsql.msi)
 
