@@ -3,9 +3,11 @@
 ![image](https://github.com/busuek/administration/assets/101875725/2397c784-b5e6-4222-8b4e-bf62728bf97e)
 
 +------------------------------------------------------------+
+
 This project is created for enthusiasts, system administrators, dev-ops, and other IT specialists, who lookig for information for work or pet project.
 Here we all can create our own repository with all good manuals, books, articles, videos and much more. You are free to use this links and resources,
 we all work together and helps each other.
+
 +------------------------------------------------------------+
 
 ## SOME GOOD YOUTUBE CHANNELS
